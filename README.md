@@ -9,7 +9,7 @@
 
 FortiGuard Labs continues to observe ongoing attack attempts targeting SimpleHelp, a Remote Monitoring and Management (RMM) software, due to a critical unauthenticated path traversal vulnerability (CVE-2024-57727) affecting versions 5.5.7 and earlier.  
 
- The **Outbreak Response - SimpleHelp Support Software Attack** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/2.0.0/docs/background-information.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*.
+ The **Outbreak Response - SimpleHelp Support Software Attack** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/2.1.0/docs/background-information.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*.
 
  The [FortiGuard Outbreak Page](https://www.fortiguard.com/outbreak-alert/simplehelp-ransomware-attack) contains information about the outbreak alert **Outbreak Response - SimpleHelp Support Software Attack**. 
 
